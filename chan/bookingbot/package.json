@@ -9,7 +9,7 @@
   "author": "Sanket Shevkar",
   "license": "ISC",
   "dependencies": {
-    "config": "^3.2.5",
+    "config": "^3.3.8",
     "mongoose": "^5.8.7",
     "puppeteer": "^2.0.0",
     "readline": "^1.3.0"
